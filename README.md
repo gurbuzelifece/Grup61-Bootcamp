@@ -25,7 +25,7 @@ FlowDay ile amacımız, kullanıcılara sadece "zaman kazandırmak" değil, gün
 - Versiyon Kontrol: Git / GitHub
 
 # SPRİNT 1 RAPORU
----
+
 Sprint 1 kapsamında ürün fikri belirlenmiş, ekip içi rol dağılımları gerçekeştirilmiş, ürünün temel iskeletinin oluşturulmasına ve proje yönetim süreçlerinin düzenlenmesine odaklanılmıştır.
 
 # Backlog Dağıtma Mantığı
