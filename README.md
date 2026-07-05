@@ -1,10 +1,10 @@
 # **FLOWDAY PROJESİ**
 # **Ekip ve Roller**
-•	Scrum Master: [İsim]
-•	Product Owner: [İsim]
-•	Developer: [İsim]
-•	Developer: [İsim]
-•	Developer: [İsim]
+-•	Scrum Master: [İsim]
+-•	Product Owner: [İsim]
+-•	Developer: [İsim]
+-•	Developer: [İsim]
+-•	Developer: [İsim]
 
 # Proje Hakkında
 FlowDay, modern profesyonellerin karşılaştığı en büyük sorunlardan biri olan "karar yorgunluğunu" (decision fatigue) ortadan kaldırmak ve görevleri optimize ederek zaman yönetimi becerilerini geliştirmek için tasarlanmış, yapay zeka destekli proaktif bir zaman yönetimi ve karar destek sistemidir.
@@ -12,9 +12,9 @@ Geleneksel takvim uygulamalarından farklı olarak, statik bir planlayıcı değ
 
 Temel Yaklaşım ve Çözüm:
 ---
-• Verim Pencereleri (Circadian Rhythm Optimization): Uygulama, kullanıcının günlük enerji döngüsünü (sirkadiyen ritim) analiz ederek, en yüksek odak gerektiren görevleri "Deep Work" bloklarına atar.
-• Dinamik Enerji Yönetimi: Proje, görevlerin sadece ne kadar sürdüğünü değil, ne kadar zihinsel efor gerektirdiğini takip eder. Enerji seviyesi düştüğünde, sistem otomatik olarak düşük yoğunluklu görevlere (e-posta yanıtlamak, dosya düzenlemek vb.) geçiş yapılmasını önerir.
-• Tahminlemeli Risk Analizi: Basit bir karar destek sistemi olarak, kullanıcının planladığı iş yükünün gerçekçi olup olmadığını yapay zeka yardımıyla analiz eder. Planın sarkma ihtimali yüksekse, kullanıcıya proaktif uyarılar göndererek günün yeniden yapılandırılmasını sağlar.
+-• Verim Pencereleri (Circadian Rhythm Optimization): Uygulama, kullanıcının günlük enerji döngüsünü (sirkadiyen ritim) analiz ederek, en yüksek odak gerektiren görevleri "Deep Work" bloklarına atar.
+-• Dinamik Enerji Yönetimi: Proje, görevlerin sadece ne kadar sürdüğünü değil, ne kadar zihinsel efor gerektirdiğini takip eder. Enerji seviyesi düştüğünde, sistem otomatik olarak düşük yoğunluklu görevlere (e-posta yanıtlamak, dosya düzenlemek vb.) geçiş yapılmasını önerir.
+-• Tahminlemeli Risk Analizi: Basit bir karar destek sistemi olarak, kullanıcının planladığı iş yükünün gerçekçi olup olmadığını yapay zeka yardımıyla analiz eder. Planın sarkma ihtimali yüksekse, kullanıcıya proaktif uyarılar göndererek günün yeniden yapılandırılmasını sağlar.
 
 FlowDay ile amacımız, kullanıcılara sadece "zaman kazandırmak" değil, günün sonunda bitkinlik değil tatmin duygusu sağlayan, sürdürülebilir bir çalışma kültürü oluşturmaktır.
 
