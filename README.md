@@ -1,10 +1,10 @@
 # **FLOWDAY PROJESİ**
 # **Ekip ve Roller**
--•	Scrum Master: [İsim]
--•	Product Owner: [İsim]
--•	Developer: [İsim]
--•	Developer: [İsim]
--•	Developer: [İsim]
+- •	Scrum Master: [İsim]
+- •	Product Owner: [İsim]
+- •	Developer: [İsim]
+- •	Developer: [İsim]
+- •	Developer: [İsim]
 
 # Proje Hakkında
 FlowDay, modern profesyonellerin karşılaştığı en büyük sorunlardan biri olan "karar yorgunluğunu" (decision fatigue) ortadan kaldırmak ve görevleri optimize ederek zaman yönetimi becerilerini geliştirmek için tasarlanmış, yapay zeka destekli proaktif bir zaman yönetimi ve karar destek sistemidir.
